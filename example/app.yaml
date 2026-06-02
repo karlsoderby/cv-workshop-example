@@ -1,8 +1,0 @@
-name:  Object Detection with LED Matrix Feedback
-description: This example showcases object detection within a live feed from a USB camera.
-ports: []
-bricks:
-- arduino:video_object_detection:
-    model: face-detection
-- arduino:web_ui: {}
-icon: 📽️
